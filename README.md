@@ -1,8 +1,8 @@
+<img width="1327" height="743" alt="Screenshot 2026-10-27 091432" src="https://github.com/user-attachments/assets/2e0cf010-ad02-4ba0-b12b-ed5d4215c18f" />
+
+
+
 # Marketing Campaign Analysis Dashboard
-![Uploading Screenshot 2026-10-27 091432.png…]()
-
-
-
 ## 📌 Project Overview
 The primary goal of this Marketing Campaign Analysis Dashboard is to provide marketing leadership with a consolidated, data-driven view to evaluate channel profitability, analyze campaign ROI, and optimize global budget allocation across digital and traditional media formats.
 
