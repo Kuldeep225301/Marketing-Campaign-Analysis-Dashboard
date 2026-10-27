@@ -1,5 +1,6 @@
 # Marketing Campaign Analysis Dashboard
-![Uploading image.png…]()
+![Uploading Screenshot 2026-10-27 091432.png…]()
+
 
 
 ## 📌 Project Overview
