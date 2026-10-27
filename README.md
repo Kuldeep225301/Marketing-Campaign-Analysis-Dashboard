@@ -1,12 +1,6 @@
 # Marketing Campaign Analysis Dashboard
+![Uploading image.png…]()
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Data Analytics](https://img.shields.io/badge/Data_Analytics-Blue?style=for-the-badge)
-![DAX](https://img.shields.io/badge/DAX-Optimization-orange?style=for-the-badge)
-
-<p align="center">
-  <img src="./assets/marketing_dashboard.png" alt="Marketing Campaign Analysis Dashboard Preview" width="100%">
-</p>
 
 ## 📌 Project Overview
 The primary goal of this Marketing Campaign Analysis Dashboard is to provide marketing leadership with a consolidated, data-driven view to evaluate channel profitability, analyze campaign ROI, and optimize global budget allocation across digital and traditional media formats.
